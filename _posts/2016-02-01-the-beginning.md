@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:50:58.115Z'
-dateModified: '2016-02-01T15:50:56.282Z'
+datePublished: '2016-02-01T15:52:32.270Z'
+dateModified: '2016-02-01T15:52:30.249Z'
 title: The Beginning
 author: []
 sourcePath: _posts/2016-02-01-the-beginning.md
@@ -18,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: the-beginning/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea89eb59-cc41-4b44-8a28-d15ba3525303.jpg)
