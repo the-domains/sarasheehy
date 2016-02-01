@@ -2,21 +2,17 @@
     <channel>
         <title><![CDATA[Sara Sheehy]]></title>
         <description><![CDATA[Sara Sheehy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sarasheehy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 15:47:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 15:50:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sarasheehy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Realities]]></title>
-            <description><![CDATA[<article><h1>Realities</h1><p>Daughter universes, a theory of quantum mechanics, states that all 
-possible outcomes of a situation play out in other universes. I woke up 
-early today. From now on my life is influenced by that decision. A 
-daughter universe was created where I slept in late, and my life is 
-slightly different. Multiplying that by every decision I’ve made, 
-conscious or not, gives me a canon of daughter universes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89da030c8a5b7dedc0f5df1b4ef42a6bbbb40aca.jpg"></article>]]></description>
-            <link>undefinedrealities/index.html</link>
+            <description><![CDATA[<article><h1>Realities</h1><p>Daughter universes suggest that the reality we live in is one of a 
+near infinite number of realities in which we exist. Mind bending.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89da030c8a5b7dedc0f5df1b4ef42a6bbbb40aca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sarasheehy/realities/index.html</link>
             <guid isPermaLink="false">f8ad6c43-334f-4eb7-b499-a5a6726d0cee</guid>
-            <pubDate>Mon, 01 Feb 2016 15:47:04 GMT</pubDate>
+            <pubDate>Mon, 01 Feb 2016 15:50:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
