@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:52:32.270Z'
+datePublished: '2016-02-01T15:52:32.322Z'
 dateModified: '2016-02-01T15:52:30.249Z'
 title: The Beginning
 author: []
