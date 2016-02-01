@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:31:59.035Z'
-dateModified: '2016-02-01T15:30:46.102Z'
-title: 'The Beginning '
+datePublished: '2016-02-01T15:50:58.057Z'
+dateModified: '2016-02-01T15:50:56.282Z'
+title: The Beginning
 author: []
+sourcePath: _posts/2016-02-01-the-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-the-beginning.md
-published: true
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea89eb59-cc41-4b44-8a28-d15ba3525303.jpg)
-
-# The Beginning
 
 Well behaved blogs follow the rules. Single topic. Short posts. Digestible tutorials. I've been there before.
 
