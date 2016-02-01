@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:45:03.408Z'
-dateModified: '2016-02-01T15:44:52.520Z'
+datePublished: '2016-02-01T15:51:28.334Z'
+dateModified: '2016-02-01T15:51:26.074Z'
 title: Perspective
 author: []
+sourcePath: _posts/2016-02-01-perspective.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-perspective.md
-published: true
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce20b345-0754-4b51-8510-2b431fc2904d.jpg)
-
-# Perspective
 
 As 2015 drew to a close I was enveloped in woodstove coziness with 
 friends. After hugs to usher in a new year I ran through the below-zero 
