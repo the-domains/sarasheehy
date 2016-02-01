@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:47:04.994Z'
+datePublished: '2016-02-01T15:47:05.141Z'
 dateModified: '2016-02-01T15:46:31.578Z'
 title: Realities
 author: []
