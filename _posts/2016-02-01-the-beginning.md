@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:52:32.395Z'
-dateModified: '2016-02-01T15:52:30.249Z'
+datePublished: '2016-02-01T15:55:59.681Z'
+dateModified: '2016-02-01T15:55:54.159Z'
 title: The Beginning
 author: []
 sourcePath: _posts/2016-02-01-the-beginning.md
