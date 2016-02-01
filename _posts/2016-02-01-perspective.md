@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:52:19.072Z'
+datePublished: '2016-02-01T15:52:19.093Z'
 dateModified: '2016-02-01T15:52:15.347Z'
 title: Perspective
 author: []
