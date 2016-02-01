@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T15:47:05.141Z'
-dateModified: '2016-02-01T15:46:31.578Z'
+datePublished: '2016-02-01T15:50:23.432Z'
+dateModified: '2016-02-01T15:50:21.644Z'
 title: Realities
 author: []
 sourcePath: _posts/2016-02-01-realities.md
@@ -23,8 +23,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b25650-4a46-4e75-95b9-d8c8ee95599d.jpg)
-
-# Realities
 
 Daughter universes, a theory of quantum mechanics, states that all 
 possible outcomes of a situation play out in other universes. I woke up 
